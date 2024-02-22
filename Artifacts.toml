@@ -1,143 +1,143 @@
 [[cddlib]]
 arch = "aarch64"
-git-tree-sha1 = "d404927e6c241215ee2871ba75c33e56548a63f0"
+git-tree-sha1 = "1a642d440ef4c3df4be6fffeea1334ec4c877d60"
 os = "macos"
 
     [[cddlib.download]]
-    sha256 = "158c0221f043ae61870a5982bade69018beaeff6ce9392832f20a5b7b63141ea"
-    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.13+0/cddlib.v0.94.13.aarch64-apple-darwin.tar.gz"
+    sha256 = "4ff11db6643e3b5215a8e4ebb75208143d4571b00ae5a7eb5966d4d095f26374"
+    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.14+0/cddlib.v0.94.14.aarch64-apple-darwin.tar.gz"
 [[cddlib]]
 arch = "aarch64"
-git-tree-sha1 = "c8746256e74afc75439951454b80df699c403b7e"
+git-tree-sha1 = "32393e5b622893c7e43300de4dbc63dd1a95060a"
 libc = "glibc"
 os = "linux"
 
     [[cddlib.download]]
-    sha256 = "b67efcd002da7c26127ded174658f507562cdb181a34dbb7ae03e594a283380f"
-    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.13+0/cddlib.v0.94.13.aarch64-linux-gnu.tar.gz"
+    sha256 = "d0bc43439f936693a34d6ca74053a7e4e3d5c565ce700620b5b3c068219306a7"
+    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.14+0/cddlib.v0.94.14.aarch64-linux-gnu.tar.gz"
 [[cddlib]]
 arch = "aarch64"
-git-tree-sha1 = "e48573ddfed5e781ecbe424c98720f33d17fdfed"
+git-tree-sha1 = "0cc028b824c720f3791332d9a8b6b0b2fcb27b0b"
 libc = "musl"
 os = "linux"
 
     [[cddlib.download]]
-    sha256 = "94b5bed2cc10a6a97fa518c46cb50f2eac2cc0925f6fe6e2df3360b06ee9c4a1"
-    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.13+0/cddlib.v0.94.13.aarch64-linux-musl.tar.gz"
+    sha256 = "c41827c67151d7be71aaf327bf88ab6dab296f4524650c5534572ae78bef5708"
+    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.14+0/cddlib.v0.94.14.aarch64-linux-musl.tar.gz"
 [[cddlib]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f27afd6882e68b4c8558c162d0792a317de18ede"
+git-tree-sha1 = "d3c057fe904289191a8cb107d413abb02ea8a0c6"
 libc = "glibc"
 os = "linux"
 
     [[cddlib.download]]
-    sha256 = "e6b4e5a1541496368eb7be844797268c1fbcd2f75b41cf3bad96cb675f37d9d2"
-    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.13+0/cddlib.v0.94.13.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "fb1476069bdca29afa76c6e7b06252b78d5cb9a64ce125ca5a8483202bc6857f"
+    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.14+0/cddlib.v0.94.14.armv6l-linux-gnueabihf.tar.gz"
 [[cddlib]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f4eaa531eb0f29b72965c46f062e031740d1b195"
+git-tree-sha1 = "bff4235450fa4ce89e39ab9b2b665c17fd53276c"
 libc = "musl"
 os = "linux"
 
     [[cddlib.download]]
-    sha256 = "53bed7ff7d28bd6923afae261859b03ac797a27dc01425b4e1bcda95ea532338"
-    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.13+0/cddlib.v0.94.13.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "658a60027c73c4590f89fbcd068b525bc802a0139e34617ee71975391d5126f3"
+    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.14+0/cddlib.v0.94.14.armv6l-linux-musleabihf.tar.gz"
 [[cddlib]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "531feff834affbd68705324e46aa26d696f9147e"
+git-tree-sha1 = "44ed9178dc9d59b1584c5d7f6180a06d89392e58"
 libc = "glibc"
 os = "linux"
 
     [[cddlib.download]]
-    sha256 = "02e157782c95b626288038021e716f701dcea621221e223cb13cd12bd2dd0fc3"
-    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.13+0/cddlib.v0.94.13.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "d185a95ca43af0d7d203ca34d4f68854a04c1495ff222b2b5e130a5f34aa8e66"
+    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.14+0/cddlib.v0.94.14.armv7l-linux-gnueabihf.tar.gz"
 [[cddlib]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "2c0d91282b2206de2aafa549c019d43600bbb389"
+git-tree-sha1 = "40523c0f75f1f4120de4a4896e0cbfbdfa22168a"
 libc = "musl"
 os = "linux"
 
     [[cddlib.download]]
-    sha256 = "9cb25be2717eda5901f9708024f4d6bc1a775e92183be3ca9c10e5eaeec9d25a"
-    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.13+0/cddlib.v0.94.13.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "c0b3e9b2ebc1bc2c30188399a3c7be4b8450eb849befb610630d865ecec4b522"
+    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.14+0/cddlib.v0.94.14.armv7l-linux-musleabihf.tar.gz"
 [[cddlib]]
 arch = "i686"
-git-tree-sha1 = "7e81c7019adf85e845869c82d357c4365b0c7d4e"
+git-tree-sha1 = "bdd4545331b1f553bdd34295158dc27ae0ea3e98"
 libc = "glibc"
 os = "linux"
 
     [[cddlib.download]]
-    sha256 = "78ea05bde7bc7028644e86a539be070d456f1e8404f49d7875f9a83c558b97fd"
-    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.13+0/cddlib.v0.94.13.i686-linux-gnu.tar.gz"
+    sha256 = "0d51ecc0b9aea5e4b276d450e36c473c757585b3ae48e758df0965f5ee6c9d3c"
+    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.14+0/cddlib.v0.94.14.i686-linux-gnu.tar.gz"
 [[cddlib]]
 arch = "i686"
-git-tree-sha1 = "1862d3c080ac5a5fcd2130bf18e3b34e28e3814b"
+git-tree-sha1 = "7bc7ffae1b819252b628543744efa9a132cbd9c1"
 libc = "musl"
 os = "linux"
 
     [[cddlib.download]]
-    sha256 = "46be2f996b167ac33c472f67f9fdd0b76c7fe23f188a0b6672e024093b865887"
-    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.13+0/cddlib.v0.94.13.i686-linux-musl.tar.gz"
+    sha256 = "4df3c12218c2aaa8476ce3defcca51856c1836ed49cdda311e29b0d46f5f7f8e"
+    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.14+0/cddlib.v0.94.14.i686-linux-musl.tar.gz"
 [[cddlib]]
 arch = "i686"
-git-tree-sha1 = "fb0310f4f71c4157c4b7a8d423ef727d7d7903ef"
+git-tree-sha1 = "e23c801e5a9a1b3f394e96d272863523726be018"
 os = "windows"
 
     [[cddlib.download]]
-    sha256 = "5c172d14d942385b4b5e2aca4be7729fdfbd9ccbd74366ebb2587d5f21d16abc"
-    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.13+0/cddlib.v0.94.13.i686-w64-mingw32.tar.gz"
+    sha256 = "49f863c2dc897c748682adaab5cd0671cf89592ee733a4fe94ce5ba134e5bbd2"
+    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.14+0/cddlib.v0.94.14.i686-w64-mingw32.tar.gz"
 [[cddlib]]
 arch = "powerpc64le"
-git-tree-sha1 = "1a6bf3685a80c81fe97c94349600e0a6f16d9de7"
+git-tree-sha1 = "b60011a682561917c3656bcffeb87f2dcad34bf8"
 libc = "glibc"
 os = "linux"
 
     [[cddlib.download]]
-    sha256 = "b23776d9fca116d08a625ff243c22f2ccf6421d85caf5ce1607a1eff31eb10cb"
-    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.13+0/cddlib.v0.94.13.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "3b83a9effb1b9007f7eea2eaa7045992ddee866c3507fc4e0aa46966f8a83b02"
+    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.14+0/cddlib.v0.94.14.powerpc64le-linux-gnu.tar.gz"
 [[cddlib]]
 arch = "x86_64"
-git-tree-sha1 = "39b5611c92d204556056ab0cf2d30984382f4a34"
+git-tree-sha1 = "0e1ba657b92ef05d4f578c4ccb7bde5ab4359277"
 os = "macos"
 
     [[cddlib.download]]
-    sha256 = "22fba404ad581fde899050345abf0fb5809988d8152b7dcdf97a078549124ed3"
-    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.13+0/cddlib.v0.94.13.x86_64-apple-darwin.tar.gz"
+    sha256 = "208cf862176037c0ad80c0352c31b7960579cacd2c350e437b70f0750fb9d9f4"
+    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.14+0/cddlib.v0.94.14.x86_64-apple-darwin.tar.gz"
 [[cddlib]]
 arch = "x86_64"
-git-tree-sha1 = "ec0212406c820d6b35b1c8b400a5ad8c67743fda"
+git-tree-sha1 = "2c602b7b18fbeff1c121a7533547fd7f518d4d7e"
 libc = "glibc"
 os = "linux"
 
     [[cddlib.download]]
-    sha256 = "0e7cd08427d1529f9ac226cb65037512a71a7c706c8f0cab966288f7dd51b657"
-    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.13+0/cddlib.v0.94.13.x86_64-linux-gnu.tar.gz"
+    sha256 = "56567517fdee07178ae7276fcf2d77ee4601bb2376ccd8bef832052579e8b63a"
+    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.14+0/cddlib.v0.94.14.x86_64-linux-gnu.tar.gz"
 [[cddlib]]
 arch = "x86_64"
-git-tree-sha1 = "dd590d8bde4d56aa29c0bb162e9fcce046ddc6b3"
+git-tree-sha1 = "e1b57e662535bad847e17a4ce598644af12f471d"
 libc = "musl"
 os = "linux"
 
     [[cddlib.download]]
-    sha256 = "14d96892f5895b6f5de21579aba368eacec40b8b9e1909bbfb49d52c5c8c9ab1"
-    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.13+0/cddlib.v0.94.13.x86_64-linux-musl.tar.gz"
+    sha256 = "5d70901f39200068c3a879723c076c600b0e5240ef9bcacd06de3de63a91f785"
+    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.14+0/cddlib.v0.94.14.x86_64-linux-musl.tar.gz"
 [[cddlib]]
 arch = "x86_64"
-git-tree-sha1 = "4ff795d3305bf978dd41d731aa13a2f99ead620b"
+git-tree-sha1 = "823c6b1f50830abcaac5d1e5dc94dae2c631553f"
 os = "freebsd"
 
     [[cddlib.download]]
-    sha256 = "ed737ad3aceb2d91b4a90a5f479407972411d995328ecaca89f8e664a453c7e1"
-    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.13+0/cddlib.v0.94.13.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "c64a1cf3b645206d5e9669f3e018a051ae61215cd7cdbf96c685795f52e1f3e2"
+    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.14+0/cddlib.v0.94.14.x86_64-unknown-freebsd.tar.gz"
 [[cddlib]]
 arch = "x86_64"
-git-tree-sha1 = "30f6f81422a8ace8acae3454d6ed845e498d5573"
+git-tree-sha1 = "f9ad68af11279d77ccf39d871c43a628d4218e49"
 os = "windows"
 
     [[cddlib.download]]
-    sha256 = "c74f632eba3cb5c132487d1ddad1a209737a771e425498b6868a5fd84f0c5be9"
-    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.13+0/cddlib.v0.94.13.x86_64-w64-mingw32.tar.gz"
+    sha256 = "af3b22fde6a71eac0883ba1f069d39b0a7f846a45fc9b3f67f417f9371455b0c"
+    url = "https://github.com/JuliaBinaryWrappers/cddlib_jll.jl/releases/download/cddlib-v0.94.14+0/cddlib.v0.94.14.x86_64-w64-mingw32.tar.gz"
